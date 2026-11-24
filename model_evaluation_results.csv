@@ -1,0 +1,5 @@
+Gold_Purity,Model,MAE,RMSE,MAPE_Percent
+999,Linear Regression,89.49,107.26,0.63
+999,Random Forest,383.84,415.18,2.69
+995,Linear Regression,89.03,106.77,0.62
+995,Random Forest,380.3,411.19,2.67
